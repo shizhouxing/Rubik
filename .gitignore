@@ -1,0 +1,5 @@
+build*
+modules/
+docs/
+SUBMISSION/
+test/
